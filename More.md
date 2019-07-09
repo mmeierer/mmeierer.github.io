@@ -1,3 +1,9 @@
+---
+layout: page
+title: Elements
+nav-menu: true
+---
+
 # Welcome to GitHub Pages 1
 
 # Welcome to GitHub Pages 2
