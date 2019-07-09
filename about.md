@@ -1,11 +1,47 @@
 ---
-layout: default
-title: About
-permalink: /about/
+layout: page
+title: More
+nav-menu: true
 ---
 
-### Minimalist
-Minimalist is a simple and light weighted [jekyll](http://jekyllrb.com/) theme. It focuses on a minimalistic design but still providing all functionality for a personal blog. For more information, e.g. how to use it, check out the [repository's](https://github.com/Trybnetic/minimalist) [Readme](https://github.com/Trybnetic/minimalist/blob/master/README.md).
+# Welcome to GitHub Pages 1
 
-### Jekyll
-[Jekyll](http://jekyllrb.com/) is a simple, ruby-based, static site generator. Jekyll generates beautifully static sites from simple text documents such as markdown. Check also the [jekyll documentation](http://jekyllrb.com/docs/home/) for what you can do with it.
+# Welcome to GitHub Pages 2
+
+## Welcome to GitHub Pages 3
+
+You can use the [editor on GitHub](https://github.com/mmeierer/mmeierer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmeierer/mmeierer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
