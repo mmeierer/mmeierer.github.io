@@ -5,6 +5,8 @@
 layout: default
 title: Blog
 ---
+News, latest publicaations and releases at a glance 
+
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
