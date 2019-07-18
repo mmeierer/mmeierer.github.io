@@ -18,23 +18,4 @@ Aut sequi hic doloribus porro ipsa exercitationem in. Ducimus incidunt soluta ve
 A excepturi debitis sit. Dolor sequi voluptatem voluptas quibusdam omnis nihil. Dolor aut laudantium sunt ut consequatur id.
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
